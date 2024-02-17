@@ -1,10 +1,15 @@
 # 📘+🌐=❤️ Awesome Book Sites
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Book sites show the contents of free-to-read books on the web. In the past year or so, I noticed sites like [Shapeup]([url](https://basecamp.com/shapeup)https://basecamp.com/shapeup) popping up and it got me thinking. Is this a new format? Why is this becoming more common? What else is out there?
+Book sites show the contents of free-to-read books on the web. In the past year or so, I noticed sites like [Shapeup]([url](https://basecamp.com/shapeup)https://basecamp.com/shapeup) popping up and it got me thinking. 
 
-❓Have an interesting book site? Stumbled across one that caught your eye? _**Submit a PR to add it to the list!**_
+- Is this a new format?
+- Why is this becoming more common?
+- What else is out there?
 
-_(PRs with adult content will not be accepted on the list)_
+## 🤝 Contributions
+
+Have an interesting book site? Stumbled across one that caught your eye? _**Submit a PR!**_
 
 ## Book Sites
 
