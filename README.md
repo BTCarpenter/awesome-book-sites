@@ -8,6 +8,6 @@ _(PRs with adult content will not be accepted on the list)_
 
 ## Book Sites
 
-- [Shapeup]([url](https://basecamp.com/shapeup)https://basecamp.com/shapeup)
+- [Shapeup](https://basecamp.com/shapeup)
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
-- [Poor Charlies Almanack]([url](https://www.stripe.press/poor-charlies-almanack/cover)https://www.stripe.press/poor-charlies-almanack/cover)
+- [Poor Charlies Almanack](https://www.stripe.press/poor-charlies-almanack/cover)
