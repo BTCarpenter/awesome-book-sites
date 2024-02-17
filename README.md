@@ -1,4 +1,4 @@
-# 📘🌐 Awesome Examples of Book Sites
+# 📘+🌐=❤️ Awesome Book Sites
 
 Book sites show the contents of free-to-read books on the web. In the past year or so, I noticed sites like [Shapeup]([url](https://basecamp.com/shapeup)https://basecamp.com/shapeup) popping up and it got me thinking. Is this a new format? Why is this becoming more common? What else is out there?
 
