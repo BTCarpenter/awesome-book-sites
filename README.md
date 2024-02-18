@@ -1,7 +1,7 @@
 # 📘+🌐=❤️ Awesome Book Sites
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Book sites show the contents of free-to-read books on the web. In the past year or so, I noticed sites like [Shapeup]([url](https://basecamp.com/shapeup)https://basecamp.com/shapeup) popping up and it got me thinking. 
+Book sites show the contents of free-to-read books on the web. In the past year or so, I noticed sites like [Shape Up](https://basecamp.com/shapeup) popping up and it got me thinking. 
 
 - Is this a new format?
 - Why is this becoming more common?
