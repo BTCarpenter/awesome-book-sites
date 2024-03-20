@@ -16,3 +16,4 @@ Have an interesting book site? Stumbled across one that caught your eye? _**Subm
 - [Shape Up](https://basecamp.com/shapeup)
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
 - [Poor Charlies Almanack](https://www.stripe.press/poor-charlies-almanack/cover)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
