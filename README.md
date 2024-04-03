@@ -17,3 +17,7 @@ Have an interesting book site? Stumbled across one that caught your eye? _**Subm
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
 - [Poor Charlies Almanack](https://www.stripe.press/poor-charlies-almanack/cover)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
+
+## Templates
+
+- [Learn2 template for Grav CMS](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)
