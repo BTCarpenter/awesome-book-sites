@@ -18,6 +18,10 @@ Have an interesting book site? Stumbled across one that caught your eye? _**Subm
 - [Poor Charlies Almanack](https://www.stripe.press/poor-charlies-almanack/cover)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 
+## Tools
+
+- The upcoming [Workbook](https://x.com/jasonfried/status/1793385721581236377) (Twitter/X announcement) by [37 Signals](https://37signals.com/)
+
 ## Templates
 
 - [Learn2 template for Grav CMS](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)
