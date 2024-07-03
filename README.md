@@ -20,7 +20,7 @@ Have an interesting book site? Stumbled across one that caught your eye? _**Subm
 
 ## Tools
 
-- The upcoming [Workbook](https://x.com/jasonfried/status/1793385721581236377) (Twitter/X announcement) by [37 Signals](https://37signals.com/)
+- [Writebook](https://once.com/writebook) by [37 Signals](https://37signals.com/)
 
 ## Templates
 
